@@ -10,9 +10,9 @@
 		"keyword_sort": "تغيير الفرز"
 	},
 	"ca": {
-		"keyword_all_shortcuts": "Mostra'ls tots",
-		"keyword_debug_disable": "Inhabilita el mode de depuració",
-		"keyword_debug_enable": "Habilita el mode de depuració",
+		"keyword_all_shortcuts": "mostra'ls tots",
+		"keyword_debug_disable": "inhabilita el mode de depuració",
+		"keyword_debug_enable": "habilita el mode de depuració",
 		"keyword_dictation_language": "canviar l'idioma de dictat",
 		"keyword_mode": "canviar mode",
 		"keyword_parameters": "amb paràmetres",
@@ -20,18 +20,18 @@
 		"keyword_sort": "tipus de canvi"
 	},
 	"cs": {
-		"keyword_all_shortcuts": "Zobrazit vše",
+		"keyword_all_shortcuts": "zobrazit vše",
 		"keyword_debug_disable": "zakázání režimu ladění",
 		"keyword_debug_enable": "povolení režimu ladění",
-		"keyword_dictation_language": "Změna jazyka diktování",
+		"keyword_dictation_language": "změna jazyka diktování",
 		"keyword_mode": "režim změny",
 		"keyword_parameters": "s parametry",
 		"keyword_settings": "otevření nastavení",
-		"keyword_sort": "Změna řazení"
+		"keyword_sort": "změna řazení"
 	},
 	"da": {
-		"keyword_all_shortcuts": "Vis alle",
-		"keyword_debug_disable": "Deaktiver fejlfindingstilstand",
+		"keyword_all_shortcuts": "vis alle",
+		"keyword_debug_disable": "deaktiver fejlfindingstilstand",
 		"keyword_debug_enable": "aktivere fejlfindingstilstand",
 		"keyword_dictation_language": "ændre dikteringssprog",
 		"keyword_mode": "skifte tilstand",
@@ -40,37 +40,37 @@
 		"keyword_sort": "ændre sortering"
 	},
 	"de": {
-		"keyword_all_shortcuts": "Alle zeigen",
-		"keyword_debug_disable": "Debug-Modus deaktivieren",
-		"keyword_debug_enable": "Debug-Modus aktivieren",
-		"keyword_dictation_language": "Änderung Diktat-Sprache",
-		"keyword_mode": "Wechselmodus",
-		"keyword_parameters": "Mit Parametern",
-		"keyword_settings": "Offene Einstellungen",
-		"keyword_sort": "Änderung"
+		"keyword_all_shortcuts": "alle zeigen",
+		"keyword_debug_disable": "debug-modus deaktivieren",
+		"keyword_debug_enable": "debug-modus aktivieren",
+		"keyword_dictation_language": "änderung diktat-sprache",
+		"keyword_mode": "wechselmodus",
+		"keyword_parameters": "mit parametern",
+		"keyword_settings": "offene einstellungen",
+		"keyword_sort": "änderung"
 	},
 	"el": {
-		"keyword_all_shortcuts": "Εμφάνιση όλων",
-		"keyword_debug_disable": "Απενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
-		"keyword_debug_enable": "Ενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
-		"keyword_dictation_language": "Αλλαγή γλώσσας υπαγόρευσης",
+		"keyword_all_shortcuts": "εμφάνιση όλων",
+		"keyword_debug_disable": "απενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
+		"keyword_debug_enable": "ενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
+		"keyword_dictation_language": "αλλαγή γλώσσας υπαγόρευσης",
 		"keyword_mode": "λειτουργία αλλαγής",
 		"keyword_parameters": "με παραμέτρους",
-		"keyword_settings": "Άνοιγμα ρυθμίσεων",
-		"keyword_sort": "Αλλαγή ταξινόμησης"
+		"keyword_settings": "άνοιγμα ρυθμίσεων",
+		"keyword_sort": "αλλαγή ταξινόμησης"
 	},
 	"en": {
-        "keyword_all_shortcuts": "show all",
-        "keyword_debug_disable": "disable debug mode",
-        "keyword_debug_enable": "enable debug mode",
-        "keyword_dictation_language": "change dictation language",
-        "keyword_mode": "change mode",
-        "keyword_parameters": "with parameters",
-        "keyword_settings": "open settings",
-        "keyword_sort": "change sort"
-    },
+		"keyword_all_shortcuts": "show all",
+		"keyword_debug_disable": "disable debug mode",
+		"keyword_debug_enable": "enable debug mode",
+		"keyword_dictation_language": "change dictation language",
+		"keyword_mode": "change mode",
+		"keyword_parameters": "with parameters",
+		"keyword_settings": "open settings",
+		"keyword_sort": "change sort"
+	},
 	"es": {
-		"keyword_all_shortcuts": "Mostrar todos los",
+		"keyword_all_shortcuts": "mostrar todos los",
 		"keyword_debug_disable": "deshabilitar el modo de depuración",
 		"keyword_debug_enable": "habilitar el modo de depuración",
 		"keyword_dictation_language": "cambiar el lenguaje de dictado",
@@ -80,17 +80,17 @@
 		"keyword_sort": "cambiar de ordenación"
 	},
 	"fi": {
-		"keyword_all_shortcuts": "Näytä kaikki",
-		"keyword_debug_disable": "Poista virheen korjaus tila käytöstä",
-		"keyword_debug_enable": "Ota debug mode",
+		"keyword_all_shortcuts": "näytä kaikki",
+		"keyword_debug_disable": "poista virheen korjaus tila käytöstä",
+		"keyword_debug_enable": "ota debug mode",
 		"keyword_dictation_language": "sanelu kielen vaihtaminen",
-		"keyword_mode": "Vaihda tila",
+		"keyword_mode": "vaihda tila",
 		"keyword_parameters": "parametrien kanssa",
-		"keyword_settings": "Avaa asetukset",
+		"keyword_settings": "avaa asetukset",
 		"keyword_sort": "muuta lajittelua"
 	},
 	"fr": {
-		"keyword_all_shortcuts": "Afficher tous",
+		"keyword_all_shortcuts": "afficher tous",
 		"keyword_debug_disable": "désactiver le mode débogage",
 		"keyword_debug_enable": "activer le mode de débogage",
 		"keyword_dictation_language": "changer la langue dictée",
@@ -120,39 +120,39 @@
 		"keyword_sort": "सॉर्ट बदलें"
 	},
 	"hr": {
-		"keyword_all_shortcuts": "Prikaži sve",
-		"keyword_debug_disable": "Onemogući način rada za ispravljanje pogrešaka",
-		"keyword_debug_enable": "Omogući način rada za ispravljanje pogrešaka",
-		"keyword_dictation_language": "Promjena jezika diktiranja",
-		"keyword_mode": "Promjena načina rada",
+		"keyword_all_shortcuts": "prikaži sve",
+		"keyword_debug_disable": "onemogući način rada za ispravljanje pogrešaka",
+		"keyword_debug_enable": "omogući način rada za ispravljanje pogrešaka",
+		"keyword_dictation_language": "promjena jezika diktiranja",
+		"keyword_mode": "promjena načina rada",
 		"keyword_parameters": "s parametrima",
-		"keyword_settings": "Otvori postavke",
-		"keyword_sort": "Promjena sortiranja"
+		"keyword_settings": "otvori postavke",
+		"keyword_sort": "promjena sortiranja"
 	},
 	"hu": {
-		"keyword_all_shortcuts": "Mutasd az összes",
-		"keyword_debug_disable": "Megbénít rovartalanítani mód",
-		"keyword_debug_enable": "Enable Debug mód",
-		"keyword_dictation_language": "Diktálás nyelvének módosítása",
+		"keyword_all_shortcuts": "mutasd az összes",
+		"keyword_debug_disable": "megbénít rovartalanítani mód",
+		"keyword_debug_enable": "enable debug mód",
+		"keyword_dictation_language": "diktálás nyelvének módosítása",
 		"keyword_mode": "üzemmód-váltás",
 		"keyword_parameters": "paraméterekkel",
-		"keyword_settings": "Megnyitás-beállítások",
+		"keyword_settings": "megnyitás-beállítások",
 		"keyword_sort": "módosítás-rendezés"
 	},
 	"id": {
-		"keyword_all_shortcuts": "Tampilkan semua",
+		"keyword_all_shortcuts": "tampilkan semua",
 		"keyword_debug_disable": "menonaktifkan mode debug",
 		"keyword_debug_enable": "mengaktifkan mode debug",
 		"keyword_dictation_language": "mengubah bahasa dikte",
 		"keyword_mode": "mode perubahan",
 		"keyword_parameters": "dengan parameter",
 		"keyword_settings": "pengaturan terbuka",
-		"keyword_sort": "perubahan Sortir"
+		"keyword_sort": "perubahan sortir"
 	},
 	"it": {
-		"keyword_all_shortcuts": "Mostra tutto",
+		"keyword_all_shortcuts": "mostra tutto",
 		"keyword_debug_disable": "disabilitare la modalità di debug",
-		"keyword_debug_enable": "Abilita modalità di debug",
+		"keyword_debug_enable": "abilita modalità di debug",
 		"keyword_dictation_language": "modificare la lingua di dettatura",
 		"keyword_mode": "modalità di modifica",
 		"keyword_parameters": "con parametri",
@@ -180,13 +180,13 @@
 		"keyword_sort": "정렬 변경"
 	},
 	"ms": {
-		"keyword_all_shortcuts": "Tunjukkan semua",
-		"keyword_debug_disable": "Nyahdaya mod nyahpepijat",
+		"keyword_all_shortcuts": "tunjukkan semua",
+		"keyword_debug_disable": "nyahdaya mod nyahpepijat",
 		"keyword_debug_enable": "mengaktifkan mod nyahpepijat",
 		"keyword_dictation_language": "menukar bahasa imlak",
 		"keyword_mode": "mengubah cara",
 		"keyword_parameters": "dengan parameter",
-		"keyword_settings": "Buka seting",
+		"keyword_settings": "buka seting",
 		"keyword_sort": "menukar semacam"
 	},
 	"nb": {
@@ -196,11 +196,11 @@
 		"keyword_dictation_language": "endre dikterings språk",
 		"keyword_mode": "endre modus",
 		"keyword_parameters": "med parametere",
-		"keyword_settings": "Åpne innstillinger",
+		"keyword_settings": "åpne innstillinger",
 		"keyword_sort": "endre sortering"
 	},
 	"nl": {
-		"keyword_all_shortcuts": "Toon alle",
+		"keyword_all_shortcuts": "toon alle",
 		"keyword_debug_disable": "debug-modus uitschakelen",
 		"keyword_debug_enable": "debug-modus inschakelen",
 		"keyword_dictation_language": "taal voor dicteren wijzigen",
@@ -210,17 +210,17 @@
 		"keyword_sort": "sorteervolgorde wijzigen"
 	},
 	"pl": {
-		"keyword_all_shortcuts": "Pokaż wszystkie",
-		"keyword_debug_disable": "Wyłącz tryb debugowania",
-		"keyword_debug_enable": "Włącz tryb debugowania",
-		"keyword_dictation_language": "Zmiana języka dyktowania",
+		"keyword_all_shortcuts": "pokaż wszystkie",
+		"keyword_debug_disable": "wyłącz tryb debugowania",
+		"keyword_debug_enable": "włącz tryb debugowania",
+		"keyword_dictation_language": "zmiana języka dyktowania",
 		"keyword_mode": "tryb zmiany",
 		"keyword_parameters": "z parametrami",
-		"keyword_settings": "Otwórz ustawienia",
+		"keyword_settings": "otwórz ustawienia",
 		"keyword_sort": "zmiana sortowania"
 	},
 	"pt": {
-		"keyword_all_shortcuts": "Mostrar todos",
+		"keyword_all_shortcuts": "mostrar todos",
 		"keyword_debug_disable": "desabilitar o modo de depuração",
 		"keyword_debug_enable": "habilitar o modo de depuração",
 		"keyword_dictation_language": "alterar linguagem ditado",
@@ -230,17 +230,17 @@
 		"keyword_sort": "alterar classificar"
 	},
 	"ro": {
-		"keyword_all_shortcuts": "Arată tot",
-		"keyword_debug_disable": "Dezactivare mod depanare",
-		"keyword_debug_enable": "Activare mod depanare",
+		"keyword_all_shortcuts": "arată tot",
+		"keyword_debug_disable": "dezactivare mod depanare",
+		"keyword_debug_enable": "activare mod depanare",
 		"keyword_dictation_language": "modificare limbă dictare",
 		"keyword_mode": "mod de schimbare",
 		"keyword_parameters": "cu parametri",
-		"keyword_settings": "Setări deschise",
+		"keyword_settings": "setări deschise",
 		"keyword_sort": "modificare sortare"
 	},
 	"ru": {
-		"keyword_all_shortcuts": "Показать все",
+		"keyword_all_shortcuts": "показать все",
 		"keyword_debug_disable": "отключить режим отладки",
 		"keyword_debug_enable": "включить режим отладки",
 		"keyword_dictation_language": "изменить язык диктовки",
@@ -250,23 +250,23 @@
 		"keyword_sort": "изменить сортировки"
 	},
 	"sk": {
-		"keyword_all_shortcuts": "Zobraziť všetky",
+		"keyword_all_shortcuts": "zobraziť všetky",
 		"keyword_debug_disable": "vypnúť režim ladenia",
-		"keyword_debug_enable": "Povoliť režim ladenia",
-		"keyword_dictation_language": "Zmena jazyka diktovania",
+		"keyword_debug_enable": "povoliť režim ladenia",
+		"keyword_dictation_language": "zmena jazyka diktovania",
 		"keyword_mode": "režim zmeny",
 		"keyword_parameters": "s parametrami",
-		"keyword_settings": "Otvoriť nastavenia",
+		"keyword_settings": "otvoriť nastavenia",
 		"keyword_sort": "zmeniť zoradenie"
 	},
 	"sv": {
-		"keyword_all_shortcuts": "Visa alla",
-		"keyword_debug_disable": "Inaktivera debug-läge",
-		"keyword_debug_enable": "Aktivera fel söknings läge",
+		"keyword_all_shortcuts": "visa alla",
+		"keyword_debug_disable": "inaktivera debug-läge",
+		"keyword_debug_enable": "aktivera fel söknings läge",
 		"keyword_dictation_language": "ändra dikteringsspråk",
 		"keyword_mode": "ändra läge",
 		"keyword_parameters": "med parametrar",
-		"keyword_settings": "Öppna inställningar",
+		"keyword_settings": "öppna inställningar",
 		"keyword_sort": "ändra sortering"
 	},
 	"th": {
@@ -286,21 +286,21 @@
 		"keyword_dictation_language": "dikte dilini değiştirme",
 		"keyword_mode": "değiştirme modu",
 		"keyword_parameters": "parametrelerle",
-		"keyword_settings": "Açık ayarlar",
-		"keyword_sort": "sıralama Değiştir"
+		"keyword_settings": "açık ayarlar",
+		"keyword_sort": "sıralama değiştir"
 	},
 	"uk": {
-		"keyword_all_shortcuts": "Показати всі",
+		"keyword_all_shortcuts": "показати всі",
 		"keyword_debug_disable": "вимкнути режим відладки",
 		"keyword_debug_enable": "увімкнути режим відладки",
-		"keyword_dictation_language": "Змінення мови диктування",
+		"keyword_dictation_language": "змінення мови диктування",
 		"keyword_mode": "режим зміни",
 		"keyword_parameters": "з параметрами",
 		"keyword_settings": "відкрити параметри",
 		"keyword_sort": "змінити сортування"
 	},
 	"vi": {
-		"keyword_all_shortcuts": "Hiển thị tất cả",
+		"keyword_all_shortcuts": "hiển thị tất cả",
 		"keyword_debug_disable": "vô hiệu hoá chế độ gỡ lỗi",
 		"keyword_debug_enable": "cho phép chế độ gỡ lỗi",
 		"keyword_dictation_language": "thay đổi ngôn ngữ chính tả",
