@@ -37,6 +37,7 @@
 		"menu_help": "Help…",
 		"menu_language": "Change Language…",
 		"menu_launchSearchType": "Search Type at Launch…",
+		"menu_launchSearchType_all": "Show All Shortcuts",
 		"menu_launchSearchType_dictation": "Using Dictation",
 		"menu_launchSearchType_text": "Using Text Input Field",
 		"menu_mode": "Run Mode…",
