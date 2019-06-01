@@ -17,6 +17,7 @@
 		"error_notecuts_404": "The NoteCut is not defined or could not be found.",
 		"error_offline": "You must be connected to the internet to check for updates.",
 		"error_offline_title": "Offline",
+		"error_shortcuts_404": "Shortcut Map Dictionary could not be found. Run Update Shortcuts from Run Shortcut Admin.",
 		"keyword_all_shortcuts": "show all",
 		"keyword_debug_enable": "enable debug mode",
 		"keyword_debug_disable": "disable debug mode",
