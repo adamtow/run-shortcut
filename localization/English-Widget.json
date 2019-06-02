@@ -36,7 +36,10 @@
 		"prompt_language": "Choose Language:",
 		"prompt_page": "Choose page.",
 		"prompt_parameters": "Enter parameters to send to this shortcut.",
+		"prompt_shortcut_ask": "Select a shortcut.",
+		"prompt_shortcut_edit": "Select a shortcut to edit.",
 		"prompt_shortcut_filter": "Filter shortcuts with a case-insensitive search.",
+		"prompt_shortcut_notecuts": "Select a shortcut to run through NoteCuts.",
 		"prompt_shortcut_run": "Select a shortcut to run.",
 		"prompt_sort": "Choose sort order when displaying shortcuts."
 	}
