@@ -2,6 +2,7 @@
 	"ar": {
 		"keyword_all_shortcuts": "إظهار الكل",
 		"keyword_background": "في الخلفية",
+		"keyword_clipboard": "من الحافظة",
 		"keyword_debug_disable": "تعطيل وضع التصحيح",
 		"keyword_debug_enable": "تمكين وضع التصحيح",
 		"keyword_dictation_language": "تغيير لغة الإملاء",
@@ -13,6 +14,7 @@
 	"ca": {
 		"keyword_all_shortcuts": "mostra'ls tots",
 		"keyword_background": "en segon pla",
+		"keyword_clipboard": "des del porta-retalls",
 		"keyword_debug_disable": "inhabilita el mode de depuració",
 		"keyword_debug_enable": "habilita el mode de depuració",
 		"keyword_dictation_language": "canviar l'idioma de dictat",
@@ -24,6 +26,7 @@
 	"cs": {
 		"keyword_all_shortcuts": "zobrazit vše",
 		"keyword_background": "na pozadí",
+		"keyword_clipboard": "ze schránky",
 		"keyword_debug_disable": "zakázání režimu ladění",
 		"keyword_debug_enable": "povolení režimu ladění",
 		"keyword_dictation_language": "změna jazyka diktování",
@@ -35,6 +38,7 @@
 	"da": {
 		"keyword_all_shortcuts": "vis alle",
 		"keyword_background": "i baggrunden",
+		"keyword_clipboard": "fra udklipsholderen",
 		"keyword_debug_disable": "deaktiver fejlfindingstilstand",
 		"keyword_debug_enable": "aktivere fejlfindingstilstand",
 		"keyword_dictation_language": "ændre dikteringssprog",
@@ -46,6 +50,7 @@
 	"de": {
 		"keyword_all_shortcuts": "alle zeigen",
 		"keyword_background": "im hintergrund",
+		"keyword_clipboard": "aus der zwischenablage",
 		"keyword_debug_disable": "debug-modus deaktivieren",
 		"keyword_debug_enable": "debug-modus aktivieren",
 		"keyword_dictation_language": "änderung diktat-sprache",
@@ -57,6 +62,7 @@
 	"el": {
 		"keyword_all_shortcuts": "εμφάνιση όλων",
 		"keyword_background": "στο παρασκήνιο",
+		"keyword_clipboard": "από το πρόχειρο",
 		"keyword_debug_disable": "απενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
 		"keyword_debug_enable": "ενεργοποίηση λειτουργίας εντοπισμού σφαλμάτων",
 		"keyword_dictation_language": "αλλαγή γλώσσας υπαγόρευσης",
@@ -68,6 +74,7 @@
 	"en": {
 		"keyword_all_shortcuts": "show all",
 		"keyword_background": "in the background",
+		"keyword_clipboard": "from the clipboard",
 		"keyword_debug_disable": "disable debug mode",
 		"keyword_debug_enable": "enable debug mode",
 		"keyword_dictation_language": "change dictation language",
@@ -79,6 +86,7 @@
 	"es": {
 		"keyword_all_shortcuts": "mostrar todos los",
 		"keyword_background": "en segundo plano",
+		"keyword_clipboard": "del portapapeles",
 		"keyword_debug_disable": "deshabilitar el modo de depuración",
 		"keyword_debug_enable": "habilitar el modo de depuración",
 		"keyword_dictation_language": "cambiar el lenguaje de dictado",
@@ -90,6 +98,7 @@
 	"fi": {
 		"keyword_all_shortcuts": "näytä kaikki",
 		"keyword_background": "taustalla",
+		"keyword_clipboard": "leike pöydältä",
 		"keyword_debug_disable": "poista virheen korjaus tila käytöstä",
 		"keyword_debug_enable": "ota debug mode",
 		"keyword_dictation_language": "sanelu kielen vaihtaminen",
@@ -101,8 +110,9 @@
 	"fr": {
 		"keyword_all_shortcuts": "afficher tous",
 		"keyword_background": "en arrière-plan",
+		"keyword_clipboard": "du presse-papiers",
 		"keyword_debug_disable": "désactiver le mode débogage",
-		"keyword_debug_enable": "activer le mode débogage",
+		"keyword_debug_enable": "activer le mode de débogage",
 		"keyword_dictation_language": "changer la langue dictée",
 		"keyword_mode": "changer le mode",
 		"keyword_parameters": "avec paramètres",
@@ -112,6 +122,7 @@
 	"he": {
 		"keyword_all_shortcuts": "הצג את כל",
 		"keyword_background": "ברקע",
+		"keyword_clipboard": "מהלוח",
 		"keyword_debug_disable": "ביטול מצב איתור באגים",
 		"keyword_debug_enable": "אפשר מצב איתור באגים",
 		"keyword_dictation_language": "שינוי שפת הכתבה",
@@ -123,6 +134,7 @@
 	"hi": {
 		"keyword_all_shortcuts": "सभी दिखाएं",
 		"keyword_background": "पृष्ठभूमि में",
+		"keyword_clipboard": "क्लिपबोर्ड से",
 		"keyword_debug_disable": "डीबग मोड अक्षम करें",
 		"keyword_debug_enable": "डीबग मोड सक्षम करें",
 		"keyword_dictation_language": "श्रुतलेखन भाषा परिवर्तित करें",
@@ -134,6 +146,7 @@
 	"hr": {
 		"keyword_all_shortcuts": "prikaži sve",
 		"keyword_background": "u pozadini",
+		"keyword_clipboard": "iz međuspremnika",
 		"keyword_debug_disable": "onemogući način rada za ispravljanje pogrešaka",
 		"keyword_debug_enable": "omogući način rada za ispravljanje pogrešaka",
 		"keyword_dictation_language": "promjena jezika diktiranja",
@@ -145,6 +158,7 @@
 	"hu": {
 		"keyword_all_shortcuts": "mutasd az összes",
 		"keyword_background": "a háttérben",
+		"keyword_clipboard": "a vágólapról",
 		"keyword_debug_disable": "megbénít rovartalanítani mód",
 		"keyword_debug_enable": "enable debug mód",
 		"keyword_dictation_language": "diktálás nyelvének módosítása",
@@ -156,6 +170,7 @@
 	"id": {
 		"keyword_all_shortcuts": "tampilkan semua",
 		"keyword_background": "di latar belakang",
+		"keyword_clipboard": "dari clipboard",
 		"keyword_debug_disable": "menonaktifkan mode debug",
 		"keyword_debug_enable": "mengaktifkan mode debug",
 		"keyword_dictation_language": "mengubah bahasa dikte",
@@ -167,6 +182,7 @@
 	"it": {
 		"keyword_all_shortcuts": "mostra tutto",
 		"keyword_background": "in background",
+		"keyword_clipboard": "dagli appunti",
 		"keyword_debug_disable": "disabilitare la modalità di debug",
 		"keyword_debug_enable": "abilita modalità di debug",
 		"keyword_dictation_language": "modificare la lingua di dettatura",
@@ -178,6 +194,7 @@
 	"ja": {
 		"keyword_all_shortcuts": "すべて表示",
 		"keyword_background": "バックグラウンドで",
+		"keyword_clipboard": "クリップボードから",
 		"keyword_debug_disable": "デバッグモードを無効にする",
 		"keyword_debug_enable": "デバッグモードを有効にする",
 		"keyword_dictation_language": "ディクテーション言語の変更",
@@ -189,6 +206,7 @@
 	"ko": {
 		"keyword_all_shortcuts": "모두 보기",
 		"keyword_background": "백그라운드에서",
+		"keyword_clipboard": "클립보드에서",
 		"keyword_debug_disable": "디버그 모드 사용 안 함",
 		"keyword_debug_enable": "디버그 모드 사용",
 		"keyword_dictation_language": "받아쓰기 언어 변경",
@@ -200,6 +218,7 @@
 	"ms": {
 		"keyword_all_shortcuts": "tunjukkan semua",
 		"keyword_background": "di latar belakang",
+		"keyword_clipboard": "daripada papan keratan",
 		"keyword_debug_disable": "nyahdaya mod nyahpepijat",
 		"keyword_debug_enable": "mengaktifkan mod nyahpepijat",
 		"keyword_dictation_language": "menukar bahasa imlak",
@@ -211,6 +230,7 @@
 	"nb": {
 		"keyword_all_shortcuts": "vise alle",
 		"keyword_background": "i bakgrunnen",
+		"keyword_clipboard": "fra utklippstavlen",
 		"keyword_debug_disable": "deaktivere feilsøkingsmodus",
 		"keyword_debug_enable": "aktivere feilsøkingsmodus",
 		"keyword_dictation_language": "endre dikterings språk",
@@ -222,6 +242,7 @@
 	"nl": {
 		"keyword_all_shortcuts": "toon alle",
 		"keyword_background": "op de achtergrond",
+		"keyword_clipboard": "vanaf het klembord",
 		"keyword_debug_disable": "debug-modus uitschakelen",
 		"keyword_debug_enable": "debug-modus inschakelen",
 		"keyword_dictation_language": "taal voor dicteren wijzigen",
@@ -233,6 +254,7 @@
 	"pl": {
 		"keyword_all_shortcuts": "pokaż wszystkie",
 		"keyword_background": "w tle",
+		"keyword_clipboard": "ze schowka",
 		"keyword_debug_disable": "wyłącz tryb debugowania",
 		"keyword_debug_enable": "włącz tryb debugowania",
 		"keyword_dictation_language": "zmiana języka dyktowania",
@@ -244,6 +266,7 @@
 	"pt": {
 		"keyword_all_shortcuts": "mostrar todos",
 		"keyword_background": "em segundo plano",
+		"keyword_clipboard": "da área de transferência",
 		"keyword_debug_disable": "desabilitar o modo de depuração",
 		"keyword_debug_enable": "habilitar o modo de depuração",
 		"keyword_dictation_language": "alterar linguagem ditado",
@@ -255,6 +278,7 @@
 	"ro": {
 		"keyword_all_shortcuts": "arată tot",
 		"keyword_background": "în fundal",
+		"keyword_clipboard": "din clipboard",
 		"keyword_debug_disable": "dezactivare mod depanare",
 		"keyword_debug_enable": "activare mod depanare",
 		"keyword_dictation_language": "modificare limbă dictare",
@@ -266,6 +290,7 @@
 	"ru": {
 		"keyword_all_shortcuts": "показать все",
 		"keyword_background": "в фоновом режиме",
+		"keyword_clipboard": "из буфера обмена",
 		"keyword_debug_disable": "отключить режим отладки",
 		"keyword_debug_enable": "включить режим отладки",
 		"keyword_dictation_language": "изменить язык диктовки",
@@ -277,6 +302,7 @@
 	"sk": {
 		"keyword_all_shortcuts": "zobraziť všetky",
 		"keyword_background": "na pozadí",
+		"keyword_clipboard": "zo schránky",
 		"keyword_debug_disable": "vypnúť režim ladenia",
 		"keyword_debug_enable": "povoliť režim ladenia",
 		"keyword_dictation_language": "zmena jazyka diktovania",
@@ -288,6 +314,7 @@
 	"sv": {
 		"keyword_all_shortcuts": "visa alla",
 		"keyword_background": "i bakgrunden",
+		"keyword_clipboard": "från urklipp",
 		"keyword_debug_disable": "inaktivera debug-läge",
 		"keyword_debug_enable": "aktivera fel söknings läge",
 		"keyword_dictation_language": "ändra dikteringsspråk",
@@ -299,6 +326,7 @@
 	"th": {
 		"keyword_all_shortcuts": "แสดงทั้งหมด",
 		"keyword_background": "ในพื้นหลัง",
+		"keyword_clipboard": "จากคลิปบอร์ด",
 		"keyword_debug_disable": "ปิดใช้งานโหมดดีบัก",
 		"keyword_debug_enable": "เปิดใช้งานโหมดดีบัก",
 		"keyword_dictation_language": "เปลี่ยนภาษาเขียนตามคำบอก",
@@ -310,6 +338,7 @@
 	"tr": {
 		"keyword_all_shortcuts": "tümünü göster",
 		"keyword_background": "arka planda",
+		"keyword_clipboard": "panoya",
 		"keyword_debug_disable": "hata ayıklama modunu devre dışı bırak",
 		"keyword_debug_enable": "hata ayıklama modunu etkinleştirin",
 		"keyword_dictation_language": "dikte dilini değiştirme",
@@ -321,6 +350,7 @@
 	"uk": {
 		"keyword_all_shortcuts": "показати всі",
 		"keyword_background": "у фоновому режимі",
+		"keyword_clipboard": "з буфера обміну",
 		"keyword_debug_disable": "вимкнути режим відладки",
 		"keyword_debug_enable": "увімкнути режим відладки",
 		"keyword_dictation_language": "змінення мови диктування",
@@ -332,6 +362,7 @@
 	"vi": {
 		"keyword_all_shortcuts": "hiển thị tất cả",
 		"keyword_background": "trong nền",
+		"keyword_clipboard": "từ bảng nháp",
 		"keyword_debug_disable": "vô hiệu hoá chế độ gỡ lỗi",
 		"keyword_debug_enable": "cho phép chế độ gỡ lỗi",
 		"keyword_dictation_language": "thay đổi ngôn ngữ chính tả",
@@ -343,6 +374,7 @@
 	"zh": {
 		"keyword_all_shortcuts": "顯示所有",
 		"keyword_background": "在後臺",
+		"keyword_clipboard": "從剪貼簿",
 		"keyword_debug_disable": "禁用偵錯模式",
 		"keyword_debug_enable": "啟用偵錯模式",
 		"keyword_dictation_language": "更改聽寫語言",
