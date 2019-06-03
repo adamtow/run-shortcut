@@ -67,7 +67,7 @@
 		"menu_yes": "Tak",
 		"prompt_dictationLanguage": "Wybierz język, który ma być używany podczas wyszukiwania skrótów przy użyciu funkcji dyktowania.",
 		"prompt_language": "Wybierz język:",
-		"prompt_launchSearchType": "Wybierz styl wyszukiwania podczas uruchamiania skrótu Run.\n\n• Dyktando: wypowiedz nazwę skrótu, który chcesz uruchomić.\n\nTa opcja umożliwia uruchamianie skrótu do pracy w centrum powiadomień.\n\nMożesz powiedzieć \"otwarte ustawienia\", aby wyświetlić stronę ustawień.\n\n• Text: wpisz część nazwy skrótu, który chcesz uruchomić. Ten otwarty musi otworzyć aplikację skróty, aby wyświetlić okno dialogowe wprowadzania tekstu.\n\n• Pokaż wszystkie skróty: Wyświetla listę wszystkich skrótów zainstalowanych na urządzeniu z systemem iOS.",
+		"prompt_launchSearchType": "Wybierz styl wyszukiwania podczas uruchamiania skrótu Run.\n\n• Dyktando: wypowiedz nazwę skrótu, który chcesz uruchomić.\n\nTa opcja umożliwia uruchamianie skrótu do pracy w centrum powiadomień.\n\nMożesz powiedzieć \"otwarte ustawienia\", aby wyświetlić stronę ustawień.\n\n• Text: wpisz część nazwy skrótu, który chcesz uruchomić. To musi otworzyć aplikację skróty, aby wyświetlić okno dialogowe wprowadzania tekstu.\n\n• Pokaż wszystkie skróty: Wyświetla listę wszystkich skrótów zainstalowanych na urządzeniu z systemem iOS.",
 		"prompt_maxPerPage": "Wybierz liczbę wyników wyszukiwania do wyświetlenia na stronie.",
 		"prompt_notecut": "Wybierz lokalny NoteCut, który będzie używany do uruchamiania skrótów.",
 		"prompt_reset": "Zresetować ustawienia Uruchom skrót?",

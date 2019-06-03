@@ -67,7 +67,7 @@
 		"menu_yes": "áno",
 		"prompt_dictationLanguage": "Vyberte jazyk, ktorý sa má použiť pri vyhľadávaní skratiek pomocou diktovania.",
 		"prompt_language": "Vyberte jazyk:",
-		"prompt_launchSearchType": "Vyberte štýl vyhľadávania pri spúšťaní spustiť odkaz.\n\n• Diktovanie: vyslovte názov odkazu, ktorý chcete spustiť.\n\nTáto možnosť umožňuje spustiť odkaz na prácu v centre hlásení.\n\nAk chcete zobraziť stránku nastavenia, môžete vysloviť \"otvorené nastavenia\".\n\n• Text: zadajte časť názvu odkazu, ktorý chcete spustiť. Tento otvorený musí otvoriť klávesové skratky aplikácie Zobraziť dialógové okno zadávania textu.\n\n• Zobraziť všetky skratky: zobrazí zoznam všetkých skratiek nainštalovaných v zariadení so systémom iOS.",
+		"prompt_launchSearchType": "Vyberte štýl vyhľadávania pri spúšťaní spustiť odkaz.\n\n• Diktovanie: vyslovte názov odkazu, ktorý chcete spustiť.\n\nTáto možnosť umožňuje spustiť odkaz na prácu v centre hlásení.\n\nAk chcete zobraziť stránku nastavenia, môžete vysloviť \"otvorené nastavenia\".\n\n• Text: zadajte časť názvu odkazu, ktorý chcete spustiť. Na zobrazenie dialógového okna pre zadávanie textu sa musí otvoriť aplikácia odkazy.\n\n• Zobraziť všetky skratky: zobrazí zoznam všetkých skratiek nainštalovaných v zariadení so systémom iOS.",
 		"prompt_maxPerPage": "Vyberte počet výsledkov vyhľadávania, ktoré sa majú zobraziť na stránke.",
 		"prompt_notecut": "Vyberte miestny NoteCut, ktorý sa použije na spustenie skratiek.",
 		"prompt_reset": "Reset spustiť odkaz nastavenia?",

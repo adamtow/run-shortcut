@@ -67,7 +67,7 @@
 		"menu_yes": "Ja",
 		"prompt_dictationLanguage": "Kies de taal die u wilt gebruiken bij het zoeken naar snelkoppelingen met behulp van dicteren.",
 		"prompt_language": "Kies taal:",
-		"prompt_launchSearchType": "Kies Zoek stijl bij het starten van snelkoppeling uitvoeren.\n\n• Dicteren: spreek de naam van de snelkoppeling die u wilt uitvoeren.\n\nMet deze optie u snelkoppeling uitvoeren om te werken in berichtgevings centrum.\n\nU ' Open Settings ' zeggen om de pagina met instellingen te bekijken.\n\n• Tekst: Typ een deel van de naam van de snelkoppeling die u wilt uitvoeren. Deze open moet de snelkoppelingen app openen om het dialoogvenster voor tekstinvoer weer te geven.\n\n• Toon alle snelkoppelingen: toont een lijst van alle snelkoppelingen geïnstalleerd op uw iOS-apparaat.",
+		"prompt_launchSearchType": "Kies Zoek stijl bij het starten van snelkoppeling uitvoeren.\n\n• Dicteren: spreek de naam van de snelkoppeling die u wilt uitvoeren.\n\nMet deze optie u snelkoppeling uitvoeren om te werken in berichtgevings centrum.\n\nU ' Open Settings ' zeggen om de pagina met instellingen te bekijken.\n\n• Tekst: Typ een deel van de naam van de snelkoppeling die u wilt uitvoeren. Dit moet open de snelkoppelingen app om de tekstinvoer dialoogvenster weer te geven.\n\n• Toon alle snelkoppelingen: toont een lijst van alle snelkoppelingen geïnstalleerd op uw iOS-apparaat.",
 		"prompt_maxPerPage": "Kies het aantal zoekresultaten dat per pagina moet worden weergegeven.",
 		"prompt_notecut": "Selecteer een lokale NoteCut die wordt gebruikt om snelkoppelingen te starten.",
 		"prompt_reset": "Reset run snelkoppeling instellingen?",

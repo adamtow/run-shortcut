@@ -67,7 +67,7 @@
 		"menu_yes": "sì",
 		"prompt_dictationLanguage": "Scegliere la lingua da utilizzare durante la ricerca di scorciatoie utilizzando la dettatura.",
 		"prompt_language": "Scegli lingua:",
-		"prompt_launchSearchType": "Scegli lo stile di ricerca quando lanci Esegui collegamento.\n\n• Dettatura: pronunciare il nome del collegamento che si desidera eseguire.\n\nQuesta opzione consente di eseguire scorciatoia per lavorare in centro notifiche.\n\nPuoi dire \"impostazioni aperte\" per visualizzare la pagina impostazioni.\n\n• Testo: digitare parte del nome del collegamento che si desidera eseguire. Questa apertura deve aprire l'applicazione scorciatoie per visualizzare la finestra di dialogo di input di testo.\n\n• Mostra tutti i collegamenti: Visualizza un elenco di tutti i collegamenti installati sul dispositivo iOS.",
+		"prompt_launchSearchType": "Scegli lo stile di ricerca quando lanci Esegui collegamento.\n\n• Dettatura: pronunciare il nome del collegamento che si desidera eseguire.\n\nQuesta opzione consente di eseguire scorciatoia per lavorare in centro notifiche.\n\nPuoi dire \"impostazioni aperte\" per visualizzare la pagina impostazioni.\n\n• Testo: digitare parte del nome del collegamento che si desidera eseguire. Questo deve aprire l'applicazione scorciatoie per visualizzare la finestra di dialogo di input di testo.\n\n• Mostra tutti i collegamenti: Visualizza un elenco di tutti i collegamenti installati sul dispositivo iOS.",
 		"prompt_maxPerPage": "Scegliere il numero di risultati di ricerca da visualizzare per pagina.",
 		"prompt_notecut": "Selezionare un NoteCut locale che verrà utilizzato per avviare le scorciatoie.",
 		"prompt_reset": "Ripristina impostazioni di collegamento Run?",

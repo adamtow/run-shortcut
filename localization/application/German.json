@@ -67,7 +67,7 @@
 		"menu_yes": "ja",
 		"prompt_dictationLanguage": "Wählen Sie die Sprache, die Sie bei der Suche nach Shortcuts mit Diktat verwenden möchten.",
 		"prompt_language": "Wählen Sie die Sprache:",
-		"prompt_launchSearchType": "Wählen Sie den Suchstil, wenn Sie Run Shortcut starten.\n\n• Dictation: Sprechen Sie den Namen der Abkürzung, die Sie ausführen möchten.\n\nMit dieser Option kann Run Shortcut im Notification Center funktionieren.\n\nSie können sagen, dass Sie \"offene Einstellungen\" verwenden können, um die Einstellungsseite zu sehen.\n\n• Text: Geben Sie einen Teil des Namens der Abkürzung ein, die Sie ausführen möchten. Dieses Öffnen muss die Shortcuts-App öffnen, um den Texteingabe-Dialog anzuzeigen.\n\n• Alle Shortcuts anzeigen: Zeigt eine Liste aller Shortcuts an, die auf Ihrem iOS-Gerät installiert sind.",
+		"prompt_launchSearchType": "Wählen Sie den Suchstil, wenn Sie Run Shortcut starten.\n\n• Dictation: Sprechen Sie den Namen der Abkürzung, die Sie ausführen möchten.\n\nMit dieser Option kann Run Shortcut im Notification Center funktionieren.\n\nSie können sagen, dass Sie \"offene Einstellungen\" verwenden können, um die Einstellungsseite zu sehen.\n\n• Text: Geben Sie einen Teil des Namens der Abkürzung ein, die Sie ausführen möchten. Dies muss die Shortcuts-App öffnen, um den Texteingabe-Dialog anzuzeigen.\n\n• Alle Shortcuts anzeigen: Zeigt eine Liste aller Shortcuts an, die auf Ihrem iOS-Gerät installiert sind.",
 		"prompt_maxPerPage": "Wählen Sie die Anzahl der Suchergebnisse, die pro Seite angezeigt werden sollen.",
 		"prompt_notecut": "Wählen Sie einen lokalen NoteCut aus, der zum Start von Shortcuts verwendet wird.",
 		"prompt_reset": "Shortcut-Einstellungen zurücksetzen?",

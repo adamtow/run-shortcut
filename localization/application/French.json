@@ -67,7 +67,7 @@
 		"menu_yes": "ouais",
 		"prompt_dictationLanguage": "Choisissez la langue à utiliser lors de la recherche de raccourcis à l’aide de la dictée.",
 		"prompt_language": "Choisir la langue:",
-		"prompt_launchSearchType": "Choisissez le style de recherche lors du lancement du raccourci exécuter.\n\n• Dictation: prononcerez le nom du raccourci que vous voulez exécuter.\n\nCette option permet d’exécuter le raccourci pour fonctionner dans le centre de notifications.\n\nVous pouvez dire «paramètres ouverts» pour afficher la page Paramètres.\n\n• Texte: tapez une partie du nom du raccourci que vous souhaitez exécuter. Cette ouverture doit ouvrir l’application raccourcis pour afficher la boîte de dialogue de saisie de texte.\n\n• Afficher tous les raccourcis: affiche une liste de tous les raccourcis installés sur votre appareil iOS.",
+		"prompt_launchSearchType": "Choisissez le style de recherche lors du lancement du raccourci exécuter.\n\n• Dictation: prononcerez le nom du raccourci que vous voulez exécuter.\n\nCette option permet d’exécuter le raccourci pour fonctionner dans le centre de notifications.\n\nVous pouvez dire «paramètres ouverts» pour afficher la page Paramètres.\n\n• Texte: tapez une partie du nom du raccourci que vous souhaitez exécuter. Cela doit ouvrir l’application raccourcis pour afficher la boîte de dialogue de saisie de texte.\n\n• Afficher tous les raccourcis: affiche une liste de tous les raccourcis installés sur votre appareil iOS.",
 		"prompt_maxPerPage": "Choisissez le nombre de résultats de recherche à afficher par page.",
 		"prompt_notecut": "Sélectionnez un NoteCut local qui sera utilisé pour lancer des raccourcis.",
 		"prompt_reset": "Réinitialiser les paramètres de raccourci Run?",

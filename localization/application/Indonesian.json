@@ -67,7 +67,7 @@
 		"menu_yes": "Ya",
 		"prompt_dictationLanguage": "Pilih bahasa yang akan digunakan ketika mencari pintasan menggunakan dikte.",
 		"prompt_language": "Pilih bahasa:",
-		"prompt_launchSearchType": "Pilih gaya pencarian ketika meluncurkan Run Shortcut.\n\n• Dikte: Ucapkan nama pintasan yang ingin Anda jalankan.\n\nPilihan ini memungkinkan Run Shortcut untuk bekerja di Notification Center.\n\nAnda dapat mengatakan ' pengaturan terbuka ' untuk melihat halaman Settings.\n\n• Teks: Ketik bagian dari nama pintasan yang ingin Anda jalankan. Terbuka ini harus membuka aplikasi Shortcuts untuk menampilkan dialog input teks.\n\n• Tampilkan semua Shortcuts: menampilkan daftar semua shortcut diinstal pada perangkat iOS Anda.",
+		"prompt_launchSearchType": "Pilih gaya pencarian ketika meluncurkan Run Shortcut.\n\n• Dikte: Ucapkan nama pintasan yang ingin Anda jalankan.\n\nPilihan ini memungkinkan Run Shortcut untuk bekerja di Notification Center.\n\nAnda dapat mengatakan ' pengaturan terbuka ' untuk melihat halaman Settings.\n\n• Teks: Ketik bagian dari nama pintasan yang ingin Anda jalankan. Ini harus membuka aplikasi Shortcuts untuk menampilkan dialog input teks.\n\n• Tampilkan semua Shortcuts: menampilkan daftar semua shortcut diinstal pada perangkat iOS Anda.",
 		"prompt_maxPerPage": "Pilih jumlah hasil pencarian yang akan ditampilkan per halaman.",
 		"prompt_notecut": "Pilih NoteCut lokal yang akan digunakan untuk meluncurkan Shortcut.",
 		"prompt_reset": "Reset Jalankan pengaturan shortcut?",

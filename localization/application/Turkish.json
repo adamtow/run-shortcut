@@ -67,7 +67,7 @@
 		"menu_yes": "Evet",
 		"prompt_dictationLanguage": "Dikte etme kullanarak kısayollar ararken kullanılacak dili seçin.",
 		"prompt_language": "Dil seçin:",
-		"prompt_launchSearchType": "Kısayol Çalıştır 'ı başlattığınızda arama stilini seçin.\n\n• Dikte etme: çalıştırmak istediğiniz kısayolun adını konuşun.\n\nBu seçenek, Çalıştır kısayolunun Bildirim Merkezi 'nde çalışmasını sağlar.\n\nAyarlar sayfasını görüntülemek için ' açık ayarlar ' diyebilirsiniz.\n\n• Metin: çalıştırmak istediğiniz kısayolun adının bir parçasını yazın. Bu açık, metin giriş iletişim kutusunu görüntülemek için kısayollar uygulamasını açmanız gerekir.\n\n• Tüm kısayolları göster: iOS cihazınızda yüklü olan tüm kısayolların listesini görüntüler.",
+		"prompt_launchSearchType": "Kısayol Çalıştır 'ı başlattığınızda arama stilini seçin.\n\n• Dikte etme: çalıştırmak istediğiniz kısayolun adını konuşun.\n\nBu seçenek, Çalıştır kısayolunun Bildirim Merkezi 'nde çalışmasını sağlar.\n\nAyarlar sayfasını görüntülemek için ' açık ayarlar ' diyebilirsiniz.\n\n• Metin: çalıştırmak istediğiniz kısayolun adının bir parçasını yazın. Bu, metin giriş iletişim kutusunu görüntülemek için kısayollar uygulamasını açmanız gerekir.\n\n• Tüm kısayolları göster: iOS cihazınızda yüklü olan tüm kısayolların listesini görüntüler.",
 		"prompt_maxPerPage": "Sayfa başına görüntülenecek arama sonuçları sayısını seçin.",
 		"prompt_notecut": "Kısayolları başlatmak için kullanılacak yerel bir NoteCut seçin.",
 		"prompt_reset": "Sıfırlama Çalıştır kısayol ayarları?",

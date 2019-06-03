@@ -67,7 +67,7 @@
 		"menu_yes": "Ja",
 		"prompt_dictationLanguage": "Vælg det sprog, der skal bruges, når der søges efter genveje ved hjælp af diktation.",
 		"prompt_language": "Vælg sprog:",
-		"prompt_launchSearchType": "Vælg søgetype, når du starter Kør genvej.\n\n• Diktering: tal navnet på den genvej, du vil køre.\n\nDenne indstilling tillader, at Kør genvej fungerer i meddelelses Center.\n\nDu kan sige \"åbne indstillinger\" for at se siden Indstillinger.\n\n• Text: Skriv en del af navnet på den genvej, du vil køre. Denne åbne skal åbne appen genveje for at få vist dialogboksen med tekstinput.\n\n• Vis alle genveje: viser en liste over alle de genveje, der er installeret på din iOS-enhed.",
+		"prompt_launchSearchType": "Vælg søgetype, når du starter Kør genvej.\n\n• Diktering: tal navnet på den genvej, du vil køre.\n\nDenne indstilling tillader, at Kør genvej fungerer i meddelelses Center.\n\nDu kan sige \"åbne indstillinger\" for at se siden Indstillinger.\n\n• Text: Skriv en del af navnet på den genvej, du vil køre. Dette skal åbne appen genveje for at få vist dialogboksen med tekstinput.\n\n• Vis alle genveje: viser en liste over alle de genveje, der er installeret på din iOS-enhed.",
 		"prompt_maxPerPage": "Vælg det antal søgeresultater, der skal vises pr. side.",
 		"prompt_notecut": "Vælg en lokal NoteCut, der skal bruges til at starte genveje.",
 		"prompt_reset": "Nulstil indstillinger for Kør genvej?",

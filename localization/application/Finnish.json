@@ -67,7 +67,7 @@
 		"menu_yes": "Kyllä",
 		"prompt_dictationLanguage": "Valitse kieli, jota käytetään etsittäessä pikanäppäimiä sanelun avulla.",
 		"prompt_language": "Valitse kieli:",
-		"prompt_launchSearchType": "Valitse haku tyyli käynnistettäessä Suorita pikakuvake.\n\n• Sanelu: puhu sen pikakuvakkeen nimi, jonka haluat suorittaa.\n\nTämän asetuksen avulla Suorita pikakuvake toimii ilmoitus keskuksessa.\n\nVoit tarkastella Asetukset-sivua sanomalla \"avoimet asetukset\".\n\n• Text: Kirjoita osa sen pikakuvakkeen nimestä, jonka haluat suorittaa. Tämän avoimen on avattava pikakuvakkeet-sovellus, jotta tekstin syöttö ikkuna tulee näkyviin.\n\n• Näytä kaikki pikakuvakkeet: näyttää luettelon kaikista iOS-laitteeseesi asenne tuista pikanäppäimistä.",
+		"prompt_launchSearchType": "Valitse haku tyyli käynnistettäessä Suorita pikakuvake.\n\n• Sanelu: puhu sen pikakuvakkeen nimi, jonka haluat suorittaa.\n\nTämän asetuksen avulla Suorita pikakuvake toimii ilmoitus keskuksessa.\n\nVoit tarkastella Asetukset-sivua sanomalla \"avoimet asetukset\".\n\n• Text: Kirjoita osa sen pikakuvakkeen nimestä, jonka haluat suorittaa. Tämän on avattava pikakuvakkeet-sovellus, jotta tekstin syöttö ikkuna tulee näkyviin.\n\n• Näytä kaikki pikakuvakkeet: näyttää luettelon kaikista iOS-laitteeseesi asenne tuista pikanäppäimistä.",
 		"prompt_maxPerPage": "Valitse näytettävien haku tulosten määrä sivua kohden.",
 		"prompt_notecut": "Valitse paikallinen NoteCut, jota käytetään pikakuvakkeiden käynnistämiseen.",
 		"prompt_reset": "Nollaa Run oikotie asetukset?",

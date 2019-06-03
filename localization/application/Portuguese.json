@@ -67,7 +67,7 @@
 		"menu_yes": "Sim",
 		"prompt_dictationLanguage": "Escolha o idioma a ser usado ao procurar por atalhos usando ditado.",
 		"prompt_language": "Escolha o idioma:",
-		"prompt_launchSearchType": "Escolha o estilo de pesquisa ao iniciar executar atalho.\n\n• Ditado: Fale o nome do atalho que deseja executar.\n\nEsta opção permite executar atalho para trabalhar na central de notificações.\n\nVocê pode dizer \"configurações abertas\" para visualizar a página de configurações.\n\n• Texto: Digite parte do nome do atalho que você deseja executar. Essa abertura deve abrir o aplicativo atalhos para exibir a caixa de diálogo de entrada de texto.\n\n• Mostrar todos os atalhos: apresenta uma lista de todos os atalhos instalados no seu dispositivo iOS.",
+		"prompt_launchSearchType": "Escolha o estilo de pesquisa ao iniciar executar atalho.\n\n• Ditado: Fale o nome do atalho que deseja executar.\n\nEsta opção permite executar atalho para trabalhar na central de notificações.\n\nVocê pode dizer \"configurações abertas\" para visualizar a página de configurações.\n\n• Texto: Digite parte do nome do atalho que você deseja executar. Isso deve abrir o aplicativo atalhos para exibir a caixa de diálogo de entrada de texto.\n\n• Mostrar todos os atalhos: apresenta uma lista de todos os atalhos instalados no seu dispositivo iOS.",
 		"prompt_maxPerPage": "Escolha o número de resultados de pesquisa a serem exibidos por página.",
 		"prompt_notecut": "Selecione um NoteCut local que será usado para iniciar atalhos.",
 		"prompt_reset": "Redefinir configurações de atalho de execução?",

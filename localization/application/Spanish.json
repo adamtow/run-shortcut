@@ -67,7 +67,7 @@
 		"menu_yes": "Sí",
 		"prompt_dictationLanguage": "Elige el idioma que quieres usar al buscar accesos directos mediante dictado.",
 		"prompt_language": "Elija idioma:",
-		"prompt_launchSearchType": "Elija el estilo de búsqueda al iniciar ejecutar acceso directo.\n\n• Dictado: diga el nombre del atajo que desea ejecutar.\n\nEsta opción permite ejecutar acceso directo para trabajar en el centro de notificaciones.\n\nPuede decir ' configuración abierta ' para ver la página de configuración.\n\n• Text: escriba parte del nombre del acceso directo que desea ejecutar. Esta apertura debe abrir la aplicación accesos directos para mostrar el diálogo de entrada de texto.\n\n• Mostrar todos los accesos directos: muestra una lista de todos los accesos directos instalados en el dispositivo iOS.",
+		"prompt_launchSearchType": "Elija el estilo de búsqueda al iniciar ejecutar acceso directo.\n\n• Dictado: diga el nombre del atajo que desea ejecutar.\n\nEsta opción permite ejecutar acceso directo para trabajar en el centro de notificaciones.\n\nPuede decir ' configuración abierta ' para ver la página de configuración.\n\n• Text: escriba parte del nombre del acceso directo que desea ejecutar. Esto debe abrir la aplicación accesos directos para mostrar el diálogo de entrada de texto.\n\n• Mostrar todos los accesos directos: muestra una lista de todos los accesos directos instalados en el dispositivo iOS.",
 		"prompt_maxPerPage": "Elija el número de resultados de búsqueda que se mostrarán por página.",
 		"prompt_notecut": "Seleccione un NoteCut local que se utilizará para iniciar accesos directos.",
 		"prompt_reset": "¿Restablecer configuración de acceso directo?",

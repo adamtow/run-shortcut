@@ -67,7 +67,7 @@
 		"menu_yes": "da",
 		"prompt_dictationLanguage": "Alegeți limba de utilizat atunci când căutați comenzi rapide utilizând dictarea.",
 		"prompt_language": "Alege limba:",
-		"prompt_launchSearchType": "Alegeți stilul de căutare când lansați executare comandă rapidă.\n\n• Dictare: vorbiți numele comenzii rapide pe care doriți să o executați.\n\nAceastă opțiune permite executarea comenzii rapide pentru a funcționa în centrul de notificări.\n\nPuteți să spuneți \"Setări deschise\" pentru a vizualiza pagina Setări.\n\n• Text: tastați o parte a numelui comenzii rapide pe care doriți să o executați. Această deschidere trebuie să deschidă aplicația comenzi rapide pentru a afișa dialogul de introducere a textului.\n\n• Afișați toate comenzile rapide: afișează o listă cu toate comenzile rapide instalate pe dispozitivul iOS.",
+		"prompt_launchSearchType": "Alegeți stilul de căutare când lansați executare comandă rapidă.\n\n• Dictare: vorbiți numele comenzii rapide pe care doriți să o executați.\n\nAceastă opțiune permite executarea comenzii rapide pentru a funcționa în centrul de notificări.\n\nPuteți să spuneți \"Setări deschise\" pentru a vizualiza pagina Setări.\n\n• Text: tastați o parte a numelui comenzii rapide pe care doriți să o executați. Aceasta trebuie să deschidă aplicația comenzi rapide pentru a afișa dialogul de introducere a textului.\n\n• Afișați toate comenzile rapide: afișează o listă cu toate comenzile rapide instalate pe dispozitivul iOS.",
 		"prompt_maxPerPage": "Alegeți numărul de rezultate de căutare de afișat pe pagină.",
 		"prompt_notecut": "Selectați un NoteCut local care va fi utilizat pentru a lansa comenzi rapide.",
 		"prompt_reset": "Reinițializare setări de comandă rapidă?",

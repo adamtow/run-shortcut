@@ -67,7 +67,7 @@
 		"menu_yes": "Ja",
 		"prompt_dictationLanguage": "Välj det språk du vill använda när du söker efter genvägar med diktering.",
 		"prompt_language": "Välj språk:",
-		"prompt_launchSearchType": "Välj sökstil när du startar kör genväg.\n\n• Diktering: tala namnet på genvägen du vill köra.\n\nMed det här alternativet kan Run Shortcut fungera i Notiscenter.\n\nDu kan säga \"öppna inställningar\" för att visa sidan inställningar.\n\n• Text: Skriv en del av namnet på genvägen du vill köra. Det här öppna måste öppna appen genvägar för att Visa dialog rutan för text inmatning.\n\n• Visa alla genvägar: visar en lista över alla genvägar som är installerade på din iOS-enhet.",
+		"prompt_launchSearchType": "Välj sökstil när du startar kör genväg.\n\n• Diktering: tala namnet på genvägen du vill köra.\n\nMed det här alternativet kan Run Shortcut fungera i Notiscenter.\n\nDu kan säga \"öppna inställningar\" för att visa sidan inställningar.\n\n• Text: Skriv en del av namnet på genvägen du vill köra. Detta måste öppna appen genvägar för att Visa dialog rutan för text inmatning.\n\n• Visa alla genvägar: visar en lista över alla genvägar som är installerade på din iOS-enhet.",
 		"prompt_maxPerPage": "Välj hur många Sök resultat som ska visas per sida.",
 		"prompt_notecut": "Välj en lokal NoteCut som ska användas för att starta genvägar.",
 		"prompt_reset": "Vill du återställa kör gen vägs inställningarna?",

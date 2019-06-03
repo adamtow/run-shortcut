@@ -67,7 +67,7 @@
 		"menu_yes": "igen",
 		"prompt_dictationLanguage": "Válassza ki a diktálás használatával a parancsikonok kereséséhez használandó nyelvet.",
 		"prompt_language": "Nyelv választása:",
-		"prompt_launchSearchType": "Választ kutatás stílus mikor dob fuss omlós torta.\n\n• Diktálási: beszéljen a nevét a parancsikont szeretnénk futtatni.\n\nEz választás megenged fuss omlós torta-hoz dolgozik-ban hirdetés központ.\n\nTudod mond ' nyit elintézés '-hoz kilátás a elintézés oldal.\n\n• Text: írja be az futtatni kívánt parancsikon nevének egy részét. Ennek a megnyitnak meg kell nyitnia a parancsikonok alkalmazást a szövegbeviteli párbeszédpanel megjelenítéséhez.\n\n• Összes parancsikon mutatása: megjeleníti az iOS-eszközön telepített parancsikonok listáját.",
+		"prompt_launchSearchType": "Választ kutatás stílus mikor dob fuss omlós torta.\n\n• Diktálási: beszéljen a nevét a parancsikont szeretnénk futtatni.\n\nEz választás megenged fuss omlós torta-hoz dolgozik-ban hirdetés központ.\n\nTudod mond ' nyit elintézés '-hoz kilátás a elintézés oldal.\n\n• Text: írja be az futtatni kívánt parancsikon nevének egy részét. A szövegbeviteli párbeszédpanel megjelenítéséhez a parancsikonok alkalmazást kell megnyitnia.\n\n• Összes parancsikon mutatása: megjeleníti az iOS-eszközön telepített parancsikonok listáját.",
 		"prompt_maxPerPage": "Válassza ki az oldalanként megjelenítendő keresési eredmények számát.",
 		"prompt_notecut": "Kiválaszt egy helyi NoteCut amit lesz hozzászokott dob omlós torta.",
 		"prompt_reset": "Visszaállítja a parancsikon futtatása beállítást?",

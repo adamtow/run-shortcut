@@ -67,7 +67,7 @@
 		"menu_yes": "ja",
 		"prompt_dictationLanguage": "Velg språket som skal brukes når du søker etter snarveier ved hjelp av diktering.",
 		"prompt_language": "Velg språk:",
-		"prompt_launchSearchType": "Velg søke stil når du starter Kjør snarvei.\n\n• Diktering: si navnet på snarveien du vil kjøre.\n\nMed dette alternativet kan du kjøre snarvei for å arbeide i Varslingssenter.\n\nDu kan si ' åpne innstillinger ' for å vise innstillinger-siden.\n\n• Text: Skriv inn en del av navnet på snarveien du vil kjøre. Denne åpne må åpne snarveier-appen for å vise dialogboksen for skriving av tekst.\n\n• Vis alle snarveier: viser en liste over alle snarveiene som er installert på iOS-enheten.",
+		"prompt_launchSearchType": "Velg søke stil når du starter Kjør snarvei.\n\n• Diktering: si navnet på snarveien du vil kjøre.\n\nMed dette alternativet kan du kjøre snarvei for å arbeide i Varslingssenter.\n\nDu kan si ' åpne innstillinger ' for å vise innstillinger-siden.\n\n• Text: Skriv inn en del av navnet på snarveien du vil kjøre. Dette må åpne snarveier-appen for å vise dialogboksen for skriving av tekst.\n\n• Vis alle snarveier: viser en liste over alle snarveiene som er installert på iOS-enheten.",
 		"prompt_maxPerPage": "Velg hvor mange søkeresultater som skal vises per side.",
 		"prompt_notecut": "Velg en lokal NoteCut som skal brukes til å starte snarveier.",
 		"prompt_reset": "Tilbakestille innstillinger for kjøre snarveier?",

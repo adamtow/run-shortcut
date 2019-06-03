@@ -67,7 +67,7 @@
 		"menu_yes": "Ano",
 		"prompt_dictationLanguage": "Zvolte jazyk, který má být použit při hledání zástupců pomocí diktování.",
 		"prompt_language": "Zvolte jazyk:",
-		"prompt_launchSearchType": "Zvolte styl hledání při spuštění zástupce pro spuštění.\n\n• Diktování: Mluvte s názvem zástupce, kterého chcete spustit.\n\nTato možnost umožňuje funkci spustit zástupce pro práci v centru oznámení.\n\nChcete-li zobrazit stránku nastavení, můžete vyslovit možnost otevřít nastavení.\n\n• Text: zadejte část názvu zástupce, který chcete spustit. Tento otevřený musí otevřít aplikaci zástupci, aby zobrazil dialog pro zadávání textu.\n\n• Show all zkratky: zobrazí seznam všech klávesových zkratek nainstalovaných v zařízení iOS.",
+		"prompt_launchSearchType": "Zvolte styl hledání při spuštění zástupce pro spuštění.\n\n• Diktování: Mluvte s názvem zástupce, kterého chcete spustit.\n\nTato možnost umožňuje funkci spustit zástupce pro práci v centru oznámení.\n\nChcete-li zobrazit stránku nastavení, můžete vyslovit možnost otevřít nastavení.\n\n• Text: zadejte část názvu zástupce, který chcete spustit. To musí otevřít aplikaci zástupci, aby bylo zobrazeno dialogové okno pro zadávání textu.\n\n• Show all zkratky: zobrazí seznam všech klávesových zkratek nainstalovaných v zařízení iOS.",
 		"prompt_maxPerPage": "Zvolte počet výsledků hledání, které se mají zobrazit na stránce.",
 		"prompt_notecut": "Vyberte místní NoteCut, který bude použit ke spouštění zástupců.",
 		"prompt_reset": "Chcete obnovit nastavení spustit zástupce?",
