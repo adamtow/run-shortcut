@@ -1,1 +1,1 @@
-This directory contains application localization files for PromptKit.
+This directory contains application localization files for Run Shortcut Settings.
